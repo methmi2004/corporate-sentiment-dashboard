@@ -2,7 +2,7 @@
 
 
 
-An interactive, multi-dimensional web application built using \*\*Python\*\*, \*\*Streamlit\*\*, and \*\*Natural Language Processing (NLP)\*\*. This tool bridges the gap between quantitative corporate financial analysis and qualitative market sentiment tracking, providing investment analysts with real-time, end-to-end stock intelligence.
+An interactive, multi-dimensional web application built using *\*Python*\*, \*\*Streamlit\*\*, and \*\*Natural Language Processing (NLP)\*\*. This tool bridges the gap between quantitative corporate financial analysis and qualitative market sentiment tracking, providing investment analysts with real-time, end-to-end stock intelligence.
 
 
 
