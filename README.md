@@ -2,7 +2,7 @@
 
 An interactive, multi-dimensional web application built using **Python**, **Streamlit**, and **Natural Language Processing (NLP)**. This platform bridges quantitative equity evaluation frameworks with qualitative market sentiment indicators, providing investment professionals and corporate data teams with an automated asset intelligence workflow.
 
-🔗 **Live Deployment Link:** [View Live Application]([https://streamlit.app](https://corporate-sentiment-dashboard-kh5pcruh3eyghyvqu3ezxc.streamlit.app/))
+🔗 **Live Deployment Link:** [View Live Application](https://streamlit.app](https://corporate-sentiment-dashboard-kh5pcruh3eyghyvqu3ezxc.streamlit.app/)
 
 ---
 
